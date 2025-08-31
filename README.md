@@ -1,1 +1,1 @@
-# Parkinson-s-Disease-Detection-using-SVM
+# Parkinsons-Disease-Detection-using-SVM
