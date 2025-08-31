@@ -3,7 +3,7 @@ This project applies Support Vector Machine (SVM) to classify individuals as hea
 
 # Executive Summary – Parkinson’s Disease Classification using SVM
 
-1.	Objective
+# Objective
 2.	The primary goal of this project was to classify whether a person has Parkinson’s disease (PD) or not, using biomedical voice measurement data.
     
    	
