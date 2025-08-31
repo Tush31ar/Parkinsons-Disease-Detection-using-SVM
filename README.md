@@ -1,1 +1,2 @@
-# Parkinsons-Disease-Detection-using-SVM
+# Parkinson’s Disease Classification using Machine Learning
+This project applies Support Vector Machine (SVM) to classify individuals as healthy or Parkinson’s patients based on biomedical voice measurements. Using data sourced from Kaggle, I built a complete machine learning pipeline from data preprocessing and feature scaling to model training and evaluation, achieving high accuracy in predicting Parkinson’s disease.
